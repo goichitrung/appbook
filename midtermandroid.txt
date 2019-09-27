@@ -1,0 +1,15 @@
+﻿-làm 1 scroll view chứa 1 textview tên app + 1 recycle view ( 1 linear vertical chứa 5 button)
+-1 recycle view mỗi row có 2 item cái tên với cái hình
+-mỗi row clickable
+-phone : 2 activity 2 fragment tablet 1 activity 2 fragment
+-Activity 2 là 1 scroll view có 1 linear layout(vertical) (align center) gồm
+*tên sách
+*tên tác giả
+*năm xuất bản
+*nội dung chính
+*youtube video
+-trong activity 2 có thông tin sách + 1 youtube video review sách
+-data ném lên internet
+-add/remove book, khi add nhập info do user cung cấp(info,youtube link của 
+video review)
+-bonus : share book on facebook;

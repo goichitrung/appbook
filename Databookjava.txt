@@ -1,0 +1,27 @@
+package com.example.book_lib;
+
+public class DataBook {
+    private int image;
+    private String bookname;
+
+    public DataBook(int image, String bookname) {
+        this.image = image;
+        this.bookname = bookname;
+    }
+
+    public int getImage() {
+        return image;
+    }
+
+    public void setImage(int image) {
+        this.image = image;
+    }
+
+    public String getBookname() {
+        return bookname;
+    }
+
+    public void setBookname(String bookname) {
+        this.bookname = bookname;
+    }
+}
